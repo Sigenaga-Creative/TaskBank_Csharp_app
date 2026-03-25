@@ -1,5 +1,5 @@
 # TaskBank_Csharp_app
-プロジェクト名【TaskBank】
+個人制作学年発表会【TaskBank】
 
 ※ファイル名「HomeGamen」がmainFormです。
 
